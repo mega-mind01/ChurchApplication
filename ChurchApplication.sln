@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChurchApplication.DataServi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChurchApplication.API", "AdeyanjuApplication.API\ChurchApplication.API.csproj", "{3D92D5BB-C00C-41FE-AB22-CB7DDE56BC86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChurchApplication.View", "ChurchApplication.View\ChurchApplication.View.csproj", "{85AAE870-B558-490D-8829-0A7651346833}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3D92D5BB-C00C-41FE-AB22-CB7DDE56BC86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D92D5BB-C00C-41FE-AB22-CB7DDE56BC86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D92D5BB-C00C-41FE-AB22-CB7DDE56BC86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85AAE870-B558-490D-8829-0A7651346833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85AAE870-B558-490D-8829-0A7651346833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85AAE870-B558-490D-8829-0A7651346833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85AAE870-B558-490D-8829-0A7651346833}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
